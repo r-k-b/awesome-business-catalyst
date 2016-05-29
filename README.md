@@ -21,6 +21,7 @@
 
 ## Official Documentation
 
+- [Cheat Sheet](http://docs.businesscatalyst.com/cheat)
 - [Developer Docs](http://docs.businesscatalyst.com/reference/)
 
 
@@ -80,7 +81,6 @@
 
 ## Miscellaneous
 
-- [Official BC Cheat Sheet](http://docs.businesscatalyst.com/cheat)
 - [Make the default photogallery modal popup responsive](http://stackoverflow.com/a/25240262/2014893)
 
 
