@@ -16,6 +16,8 @@
 - [Other Lists](#other-lists)
 - [Miscellaneous](#miscellaneous)
 
+<!-- - [Admin UI tweaks](#admin-ui-tweaks) -->
+
 
 ## Official Documentation
 
@@ -47,6 +49,7 @@
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/business-catalyst) - When you need comprehensive answer to a specific technical question.
 - [BC Podcast](http://feeds.feedburner.com/bcpodcast) - The podcasts are posted to [the regular blog,](http://businesscatalyst.com/bc-blog) for which the RSS feed is not compatible with Podcast apps. Also on [iTunes.](https://itunes.apple.com/au/podcast/bc-podcast/id406240168)
 - [Facebook](https://www.facebook.com/groups/1460931824128318/) - Contact ___ to get an invite.
+
 <!-- - [Reddit](https://www.reddit.com/r/BusinessCatalyst) _(could be good, but hasn't taken off yet)_ -->
 
 
@@ -56,7 +59,7 @@
 - [BCPie](https://github.com/onecreative/bcpie) - "A complete replacement for the frontend of Business Catalyst."
 
 
-<!-- # UI tweaks
+<!-- # Admin UI tweaks
 
 - [Show List IDs in Admin Pages](https://gist.github.com/r-k-b/1b89a057231055fb0f231b304df8a78e) - Puts all the IDs on the page, so you don't need to hover each item. Works with Categories/Classifications, Media Downloads. (Userscript)
 
