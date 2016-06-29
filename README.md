@@ -58,6 +58,8 @@
 
 - [BC API Discovery](https://github.com/adobebc/web-apps-sdk/tree/master/samples/bc-api-discovery) - Choose the data source from a some dropdowns, get a working code snippet for it. Provides code in both Liquid Markup and JavaScript. Maintained by Adobe.
 - [BCPie](https://github.com/onecreative/bcpie) - "A complete replacement for the frontend of Business Catalyst."
+- [BC App UI Kit](http://www.bcappstore.com/apps/bc-app-ui-kit) - a Photoshop file pre-loaded with modular elements, for making mockups of BC Apps consistent with the existing UI
+- [Business Catalyst UI Guide](http://xdui.worldsecuresystems.com/) - Sample HTML and CSS for consistent BC apps, based on Bootstrap 3.
 
 
 <!-- # Admin UI tweaks
